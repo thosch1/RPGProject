@@ -48,6 +48,7 @@ public class StickRPG {
 	}
 	
 	public static void main(String[] args) {
+		//test
 		StickRPG s = null;
 		try {
 			s = new StickRPG("save.txt");
